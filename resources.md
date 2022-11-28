@@ -47,6 +47,7 @@ Commons.
 * [Prototypo](https://www.prototypo.io) parametric font editor ([source code](https://github.com/byte-foundry/prototypo))
 * [Metapolator](https://metapolator.com/home/) font editor
 * [Type:Bits](https://manufacturaindependente.org/typebits/) collaborative type design workshop
+* [Type:Grammica](https://grammica.com) 
 
 Some of these platforms also take submissions, so if you designed a font with an open license, submit it there!
 
